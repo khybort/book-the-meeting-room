@@ -37,6 +37,7 @@
 - react-toastify
 - typescript
 - validator
+- tailwindcss
 
 # Improvements that may be added in the future
 - Pagination can more efficiently be implemented.
