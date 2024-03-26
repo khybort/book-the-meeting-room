@@ -1,0 +1,19 @@
+# Django migrations
+**/migrations/
+
+**/backend/venv
+**/frontend/build
+**/frontend/node_modules
+
+# Django cache files
+**/*.pyc
+**/*.pyo
+
+# Django static files
+**/static/**
+
+# Django media files
+**/media/**
+
+# Django database dump files
+**/db.sql
